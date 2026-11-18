@@ -1,0 +1,33 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Переменные окружения
+.env
+
+# Кэш и байт‑код
+__pycache__/
+*.py[cod]
+*\$py.class
+.pytest_cache/
+.coverage
+.hypothesis/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Артефакты сборки
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Логи и временные файлы
+*.log
+tmp/
