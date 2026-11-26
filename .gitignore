@@ -31,3 +31,4 @@ build/
 # Логи и временные файлы
 *.log
 tmp/
+products/
